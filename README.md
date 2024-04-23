@@ -1,13 +1,13 @@
 # CereBroto
 
-## Equipe 👷‍♂️
+## Equipe 🧠
 
 - Gabriela Cristina Schmitt (25733150)
 - Felipe dos Santos Fabienski (8113112368)
 - Luiz Henrique Vieira Steff (25878301)
 - Elton Aparecido de Campos (8113118692766)
 
-## Tema 🚗
+## Tema 🥦
 
 - Classificador de vegetais
 
