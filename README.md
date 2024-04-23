@@ -23,4 +23,4 @@
 
 ## Revisão da literatura 📖
 
-<b>Pasta com os resumos e artigos:</b> [revisão_literaria](uhu)
+<b>Pasta com os resumos e artigos:</b> [revisão_literaria](revisao_literaria)
