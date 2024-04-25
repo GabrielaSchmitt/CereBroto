@@ -17,7 +17,7 @@
 
 ## Dataset 📝
 - <b>URL</b>: [vegetable-image-dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
-- <b>Número de classes/marcas</b>: 15.
+- <b>Número de classes/vegetais</b>: 15.
 - <b>Classificações possíveis</b>: Bean, Bitter Gourd, Bottle Gourd, Brinjal, Broccoli, Cabbage, Capsicum, Carrot, Cauliflower, Cucumber, Papaya, Potato, Pumpkin, Radish, Tomato.
 - <b>Número de imagens de treino</b>: 1000 imagens de treino para cada vegetal. 15000 imagens de treino no total. 
 - <b>Número de imagens de teste</b>: 200 imagens de teste para cada vegetal. 3000 imagens de teste no total. 
