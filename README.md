@@ -15,7 +15,7 @@
 ## Objetivos 🎯
 - Treinar uma rede capaz de identificar qual vegetal apresentado dentre os utilizados no treinamento (Feijão, cabaça amarga, cabaça, berinjela, brócolis, repolho, pimentão, cenoura, couve-flor, pepino, mamão, batata, abóbora, rabanete, tomate) esta sendo apresentado a partir de uma nova foto de um vegetal. 
 
-## Dataset 📝
+## Dataset 🖼️
 - <b>URL</b>: [vegetable-image-dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - <b>Número de classes/vegetais</b>: 15.
 - <b>Classificações possíveis</b>: Bean, Bitter Gourd, Bottle Gourd, Brinjal, Broccoli, Cabbage, Capsicum, Carrot, Cauliflower, Cucumber, Papaya, Potato, Pumpkin, Radish, Tomato.
@@ -25,6 +25,9 @@
 ## Revisão literária 📖
 
 <b>Pasta com os resumos e artigos:</b> [revisão_literaria](revisao_literaria)
+
+## Documentação do projeto 📝
+<b>[Documentação](https://github.com/GabrielaSchmitt/CereBroto/blob/main/DOC_Cerebroto_IA.pdf)</b> 
 
 
 ## Código Contrutor da IA 🔧
