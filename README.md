@@ -25,3 +25,12 @@
 ## Revisão literária 📖
 
 <b>Pasta com os resumos e artigos:</b> [revisão_literaria](revisao_literaria)
+
+
+## Código Contrutor da IA 🔧
+<b>[Código](https://github.com/GabrielaSchmitt/CereBroto/blob/main/Constructor_classificador_de_Vegetais.ipynb)</b> 
+
+
+## Utilizando o modelo da IA para classificar uma imagem qualquer 🔍
+<b>[Código](https://github.com/GabrielaSchmitt/CereBroto/blob/main/Inferencia_Vegetais.ipynb)</b> 
+
