@@ -42,7 +42,7 @@ Treinar uma rede capaz de identificar qual vegetal apresentado dentre os utiliza
 
 ## Como rodar os códigos 🐍
 
-Para rodar os códigos faça o upload dos arquivos ipynb que são um [Colab Notebook](https://colab.research.google.com/), ou [Jupyter Notebook](https://jupyter.org/). É possivel baixar a extensão do Jupyter Notebook no VSCode e rodar as células. Ou importar o arquivo diretamente na sua conta do Colab e rodar as células. Não esqueça de alterar os caminhos de arquivos. Baixer o dataset para rodar o constructor. Baixe o modelo para rodar a inferência. 
+Para rodar os códigos faça o upload dos arquivos ipynb que são um [Colab Notebook](https://colab.research.google.com/), ou [Jupyter Notebook](https://jupyter.org/). É possivel baixar a extensão do Jupyter Notebook no VSCode e rodar as células. Ou importar o arquivo diretamente na sua conta do Colab e rodar as células. Não esqueça de alterar os caminhos de arquivos. Baixe o dataset para rodar o constructor. Baixe o modelo para rodar a inferência. 
 
  <br></br>
 
